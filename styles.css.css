@@ -1,0 +1,27 @@
+p {
+    font-size: 20px;
+    color: darkgreen;
+}
+
+#heading-one{
+    font-size: 30px;
+    color: darkblue;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.text-highlight{
+    background-color: lightblue;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 20px;
+}
+
+* {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing:  0.5px;
+}
