@@ -1,27 +1,21 @@
-p {
-    font-size: 20px;
-    color: darkgreen;
-}
-
-#heading-one{
-    font-size: 30px;
-    color: darkblue;
-    text-decoration: underline;
-    font-style: italic;
-}
-
-.text-highlight{
-    background-color: lightblue;
-    border: 1px solid black;
-    padding: 15px;
-    margin: 20px;
-}
-
-* {
+body {
     font-family: Arial, sans-serif;
-    font-size: 20px;
-    font-weight: lighter;
-    text-align: left;
-    text-transform: uppercase;
-    letter-spacing:  0.5px;
+    margin: 20px;
+    background-color: lightblue;
+}
+
+#main-heading {
+    color: darkblue;
+    text-align: center;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+.intro {
+    background-color: gray;
+    padding: 5px;
+    max-width: 800px;
+    margin: 20px;
+    border: 2px solid black;
+    text-decoration-color: brown;
 }
